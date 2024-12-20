@@ -1,11 +1,15 @@
 Description:
+
 This pipeline includes the CP prognostic model and the Motor Composite Score Model (based on R and Python), designed to predict CP or the Motor Score using Clinical, Structural Connectivity, Functional Connectivity, and Morphometry data.
 
 Dependencies:
+
  •	RStudio
+ 
  •	Python
 
 How to Run:
+
 1.	Ensure that all dependencies are installed.
 2.	Place your data file in the specified location.
 3.	Use the flowchart in Figure 1 to run the pipeline. When running the pipeline, please consider the following points:
