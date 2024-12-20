@@ -12,7 +12,8 @@ i.	Intermediate: To feed the data into the code (Combining data, Separating data
 ii.	Expert: To select the most important components (only for the CP Prognostic Model)
 b.	During the imputation step, to handle missing data, a threshold of 30% missing predictors is applied.
 
-![image](https://github.com/user-attachments/assets/d5f087ee-b78f-4849-a6b4-b3c6cf7a1309)
+
+![image](https://github.com/user-attachments/assets/3c990bf6-7e8d-459d-ad33-d9ec8fda142a)
 
 
 
